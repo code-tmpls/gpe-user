@@ -1,0 +1,16 @@
+{
+  "name": "gpe-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@code-tmpls/gpe": "^1.0.2",
+    "@code-tmpls/gpe-multi-package1": "^1.0.5",
+    "@code-tmpls/gpe-multi-package2": "^1.0.5"
+  }
+}
